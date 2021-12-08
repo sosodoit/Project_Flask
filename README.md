@@ -53,8 +53,13 @@
 ■ 신고기록조회페이지/신고기록상세페이지/신고하기페이지 db <br>
 ▲ flask web deploy... <br>
 
-#### 11/27 UPDATE (예정)
+#### 11/27 UPDATE
+▲ flask web deploy... <br>
 □ 발표 피피티 수정 <br>
 □ 영상 확정 <br><br> 
+
+#### 12/08 UPDATE (예정)
+□
+□
 
 ***COMPLETE FAiNDER SERVICE CONNECT TO THE FLASK WEB***
